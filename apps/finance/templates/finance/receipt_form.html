@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+{% load humanize %}
+
+{% block content %}
+<script src="https://cdn.botpress.cloud/webchat/v1/inject.js"></script>
+<script src="https://mediafiles.botpress.cloud/ad810d05-2ab5-44c3-8c21-e5880c7504dc/webchat/config.js" defer></script>
+<div class="row">
+  <div class="col-8">
+    <form action="" method="POST">
+      {% csrf_token %}
+
+      {% include 'corecode/form_snippet.html' %}
+
+      <input type="submit" class="btn btn-primary" value="Add payment">
+
+    </form>
+  </div>
+
+  <div class="col-4">
+    <div class="alert alert-info" role="alert">
+      <h3>INVOICE</h3>
+      <p>{{invoice | upper}}</p>
+      <hr>
+      <ul>
+
+        <li>Session: {{ invoice.session }}</li>
+        <li>Term: {{ invoice.term }}</li>
+        <li>Class: {{ invoice.class_for }}</li>
+        <li>Total Amount Payable: {{invoice.total_amount_payable | intcomma }}
+        </li>
+        <li>Total Amount Paid: {{ invoice.total_amount_paid | intcomma }}</li>
+        <li><strong>Balance: {{invoice.balance | intcomma }}</strong></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+
+{% endblock content %}

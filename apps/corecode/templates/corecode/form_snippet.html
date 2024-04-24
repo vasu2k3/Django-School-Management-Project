@@ -1,0 +1,19 @@
+{% load widget_tweaks %}
+<script src="https://cdn.botpress.cloud/webchat/v1/inject.js"></script>
+<script src="https://mediafiles.botpress.cloud/ad810d05-2ab5-44c3-8c21-e5880c7504dc/webchat/config.js" defer></script>
+{% for field in form %}
+<div class="form-group row">
+  <label class="col-sm-3 col-form-label" for="{{ field.auto_id }}">
+    {{ field.label }}
+    {% for error in field.errors %}
+      <small id="{{ field.auto_id }}" class="text-danger">{{ error }}</small>
+    {% endfor %}
+  </label>
+  <div class="col-sm-9">
+    {{ field | add_class:"form-control"}}
+    {% if field.help_text %}
+    <small>{{ field.help_text|safe }}</small>
+    {% endif %}
+  </div>
+</div>
+{% endfor %}

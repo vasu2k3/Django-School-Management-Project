@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+<script src="https://cdn.botpress.cloud/webchat/v1/inject.js"></script>
+<script src="https://mediafiles.botpress.cloud/ad810d05-2ab5-44c3-8c21-e5880c7504dc/webchat/config.js" defer></script>
+{% block title %}
+
+  {% if object %}
+    Update {{ object }}
+  {% else %}
+    Add new staff
+  {% endif %}
+
+{% endblock title %}
+
+
+{% block content %}
+
+<form action="" method="POST">
+  {% csrf_token %}
+
+  {% include 'corecode/form_snippet.html' %}
+
+  {% if object %}
+    <input type="submit" class="btn btn-primary" value="Update Record">
+  {% else %}
+    <input type="submit" class="btn btn-primary" value="Add new student">
+  {% endif %}
+</form>
+
+
+{% endblock content %}

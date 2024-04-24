@@ -1,0 +1,345 @@
+INFO 2024-04-24 17:25:33,556 Watching for file changes with StatReloader
+INFO 2024-04-24 17:25:37,951 "GET / HTTP/1.1" 302 0
+INFO 2024-04-24 17:25:38,317 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2024-04-24 17:25:39,615 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-04-24 17:25:39,636 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-04-24 17:25:39,707 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9064
+INFO 2024-04-24 17:25:39,710 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-04-24 17:25:39,717 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686718
+INFO 2024-04-24 17:25:40,618 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-04-24 17:25:40,669 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-04-24 17:25:40,701 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-04-24 17:25:40,789 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-04-24 17:25:40,795 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-04-24 17:25:40,791 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-04-24 17:25:40,807 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-04-24 17:25:41,397 "GET / HTTP/1.1" 302 0
+INFO 2024-04-24 17:25:42,129 "GET /static/dist/img/login.png HTTP/1.1" 200 445475
+INFO 2024-04-24 17:25:43,927 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+WARNING 2024-04-24 17:25:44,102 Not Found: /favicon.ico
+WARNING 2024-04-24 17:25:44,102 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-04-24 17:25:54,329 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-04-24 17:25:59,035 "GET / HTTP/1.1" 200 9298
+INFO 2024-04-24 17:25:59,442 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2024-04-24 17:25:59,539 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2024-04-24 17:25:59,601 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2024-04-24 17:26:07,954 "GET /result/create/ HTTP/1.1" 200 10923
+INFO 2024-04-24 17:26:09,820 "GET /result/edit-results/ HTTP/1.1" 200 12069
+INFO 2024-04-24 17:26:10,958 "GET /result/view/all HTTP/1.1" 200 10295
+INFO 2024-04-24 17:26:12,508 "GET /site-config HTTP/1.1" 200 10873
+INFO 2024-04-24 17:26:17,886 "GET / HTTP/1.1" 200 9298
+INFO 2024-04-24 17:38:40,172 "GET / HTTP/1.1" 302 0
+INFO 2024-04-24 17:38:40,242 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2024-04-24 17:38:40,695 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-04-24 17:38:40,710 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2024-04-24 17:38:40,742 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9064
+INFO 2024-04-24 17:38:40,746 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2024-04-24 17:38:40,748 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-04-24 17:38:40,750 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2024-04-24 17:38:40,758 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686718
+INFO 2024-04-24 17:38:40,760 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2024-04-24 17:38:40,761 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2024-04-24 17:38:40,761 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2024-04-24 17:38:40,764 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2024-04-24 17:38:40,765 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2024-04-24 17:38:43,157 "GET /static/dist/img/login.png HTTP/1.1" 200 445475
+INFO 2024-04-24 17:38:43,589 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2024-04-24 17:51:22,872 Watching for file changes with StatReloader
+INFO 2024-04-24 17:51:26,128 "GET / HTTP/1.1" 302 0
+INFO 2024-04-24 17:51:26,939 "GET /accounts/login/?next=/ HTTP/1.1" 200 4008
+INFO 2024-04-24 17:51:53,848 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-04-24 17:51:53,866 "GET / HTTP/1.1" 200 9298
+INFO 2024-04-24 17:51:54,339 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2024-04-24 18:08:23,748 Watching for file changes with StatReloader
+INFO 2024-04-24 18:08:26,659 "GET / HTTP/1.1" 302 0
+INFO 2024-04-24 18:08:26,818 "GET /accounts/login/?next=/ HTTP/1.1" 200 4008
+WARNING 2024-04-24 18:08:29,679 Not Found: /favicon.ico
+WARNING 2024-04-24 18:08:29,686 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-04-24 18:08:31,926 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-04-24 18:08:31,947 "GET / HTTP/1.1" 200 9298
+INFO 2024-04-24 18:11:13,186 Watching for file changes with StatReloader
+INFO 2024-04-24 18:11:16,218 "GET / HTTP/1.1" 302 0
+INFO 2024-04-24 18:11:17,325 "GET /accounts/login/?next=/ HTTP/1.1" 200 4008
+INFO 2024-04-24 18:11:41,421 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-04-24 18:11:41,441 "GET / HTTP/1.1" 200 9478
+INFO 2024-04-24 18:11:42,762 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2024-04-24 18:12:42,123 "GET / HTTP/1.1" 302 0
+INFO 2024-04-24 18:12:42,430 "GET /accounts/login/?next=/ HTTP/1.1" 200 4008
+INFO 2024-04-24 18:12:43,419 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+WARNING 2024-04-24 18:12:43,541 Not Found: /favicon.ico
+INFO 2024-04-24 18:15:41,417 Watching for file changes with StatReloader
+INFO 2024-04-24 18:15:45,791 "GET / HTTP/1.1" 302 0
+INFO 2024-04-24 18:15:46,387 "GET /accounts/login/?next=/ HTTP/1.1" 200 4008
+WARNING 2024-04-24 18:15:48,136 Not Found: /favicon.ico
+INFO 2024-04-24 18:15:52,011 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-04-24 18:15:52,307 "GET / HTTP/1.1" 200 9478
+INFO 2024-04-24 18:15:54,050 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2024-04-24 18:16:06,108 "GET /student/list HTTP/1.1" 200 10134
+INFO 2024-04-24 19:16:22,416 "GET /result/create/ HTTP/1.1" 200 11103
+INFO 2024-04-24 19:20:57,442 Watching for file changes with StatReloader
+INFO 2024-04-24 19:21:00,441 "GET / HTTP/1.1" 302 0
+INFO 2024-04-24 19:21:00,757 "GET /accounts/login/?next=/ HTTP/1.1" 200 4008
+WARNING 2024-04-24 19:21:01,861 Not Found: /favicon.ico
+INFO 2024-04-24 19:21:04,406 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-04-24 19:21:05,142 "GET / HTTP/1.1" 200 9468
+INFO 2024-04-24 19:21:10,870 "GET /student/list HTTP/1.1" 200 10124
+INFO 2024-04-24 19:21:15,097 "GET /current-session/ HTTP/1.1" 200 10776
+INFO 2024-04-24 19:32:37,307 Watching for file changes with StatReloader
+INFO 2024-04-24 19:32:40,791 "GET / HTTP/1.1" 302 0
+INFO 2024-04-24 19:32:41,014 "GET /accounts/login/?next=/ HTTP/1.1" 200 4027
+INFO 2024-04-24 19:32:41,447 "GET /static/dist/img/login.png HTTP/1.1" 200 445475
+INFO 2024-04-24 19:32:41,477 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2024-04-24 19:32:41,712 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+INFO 2024-04-24 19:32:51,849 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-04-24 19:32:52,111 "GET / HTTP/1.1" 200 9336
+INFO 2024-04-24 19:32:52,286 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2024-04-24 19:32:52,787 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2024-04-24 19:33:00,360 "GET /student/list HTTP/1.1" 200 9992
+INFO 2024-04-24 19:33:02,020 "GET /current-session/ HTTP/1.1" 200 10644
+INFO 2024-04-24 19:38:21,704 Watching for file changes with StatReloader
+INFO 2024-04-24 19:38:25,108 "GET / HTTP/1.1" 302 0
+INFO 2024-04-24 19:38:25,343 "GET /accounts/login/?next=/ HTTP/1.1" 200 4027
+INFO 2024-04-24 19:38:25,739 "GET /static/dist/img/login.png HTTP/1.1" 200 445475
+INFO 2024-04-24 19:38:25,798 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2024-04-24 19:38:25,814 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9064
+WARNING 2024-04-24 19:38:26,240 Not Found: /favicon.ico
+INFO 2024-04-24 19:49:43,464 Watching for file changes with StatReloader
+INFO 2024-04-24 19:49:46,416 "GET / HTTP/1.1" 302 0
+INFO 2024-04-24 19:49:46,743 "GET /accounts/login/?next=/ HTTP/1.1" 200 4066
+WARNING 2024-04-24 19:49:47,785 Not Found: /favicon.ico
+INFO 2024-04-24 19:49:53,931 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-04-24 19:49:54,033 "GET / HTTP/1.1" 200 9336
+INFO 2024-04-24 19:49:54,369 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2024-04-24 19:49:58,730 "GET / HTTP/1.1" 200 9336
+INFO 2024-04-24 19:50:04,068 "GET /site-config HTTP/1.1" 200 10931
+INFO 2024-04-24 19:50:11,544 "POST /site-config HTTP/1.1" 200 10947
+INFO 2024-04-24 19:50:15,580 "GET /session/list/ HTTP/1.1" 200 12330
+INFO 2024-04-24 19:50:19,825 "GET /session/2/delete/ HTTP/1.1" 200 10035
+INFO 2024-04-24 19:50:22,053 "POST /session/2/delete/ HTTP/1.1" 302 0
+INFO 2024-04-24 19:50:22,270 "GET /session/list/ HTTP/1.1" 200 12170
+INFO 2024-04-24 19:51:43,908 Watching for file changes with StatReloader
+INFO 2024-04-24 19:51:46,662 "GET / HTTP/1.1" 302 0
+INFO 2024-04-24 19:51:46,932 "GET /accounts/login/?next=/ HTTP/1.1" 200 4066
+WARNING 2024-04-24 19:51:47,959 Not Found: /favicon.ico
+INFO 2024-04-24 19:51:54,951 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-04-24 19:51:54,968 "GET / HTTP/1.1" 200 9336
+INFO 2024-04-24 19:52:09,573 "GET /current-session/ HTTP/1.1" 200 10604
+INFO 2024-04-24 19:54:52,058 Watching for file changes with StatReloader
+INFO 2024-04-24 19:54:55,617 "GET / HTTP/1.1" 302 0
+INFO 2024-04-24 19:54:55,985 "GET /accounts/login/?next=/ HTTP/1.1" 200 4066
+INFO 2024-04-24 19:54:56,628 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+WARNING 2024-04-24 19:54:57,001 Not Found: /favicon.ico
+INFO 2024-04-24 19:55:04,554 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-04-24 19:55:04,708 "GET / HTTP/1.1" 200 9336
+INFO 2024-04-24 19:55:07,765 "GET /current-session/ HTTP/1.1" 200 10604
+INFO 2024-04-24 19:55:09,286 "GET /current-session/ HTTP/1.1" 200 10604
+ERROR 2024-04-24 19:55:14,502 Internal Server Error: /current-session/
+Traceback (most recent call last):
+  File "/home/kali/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/kali/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/kali/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/kali/.local/lib/python3.10/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/kali/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/kali/Desktop/Django-School-Management-System/apps/corecode/views.py", line 257, in post
+    form = self.form_Class(request.POST)
+AttributeError: 'CurrentSessionAndTermView' object has no attribute 'form_Class'
+ERROR 2024-04-24 19:55:14,503 "POST /current-session/ HTTP/1.1" 500 81712
+INFO 2024-04-24 19:55:24,339 "GET /current-session/ HTTP/1.1" 200 10604
+INFO 2024-04-24 19:55:29,679 "GET / HTTP/1.1" 200 9336
+INFO 2024-04-24 19:55:31,378 "GET /current-session/ HTTP/1.1" 200 10604
+INFO 2024-04-24 19:55:34,114 "GET / HTTP/1.1" 200 9336
+INFO 2024-04-24 19:55:36,526 "GET /staff/list/ HTTP/1.1" 200 9733
+INFO 2024-04-24 19:55:39,719 "GET /finance/list/ HTTP/1.1" 200 10396
+INFO 2024-04-24 19:55:41,858 "GET /staff/list/ HTTP/1.1" 200 9733
+INFO 2024-04-24 19:55:50,177 "GET /staff/create/ HTTP/1.1" 200 12646
+INFO 2024-04-24 19:57:40,238 Watching for file changes with StatReloader
+INFO 2024-04-24 19:57:42,957 "GET / HTTP/1.1" 200 9336
+INFO 2024-04-24 19:57:48,175 "GET /staff/list/ HTTP/1.1" 200 9733
+INFO 2024-04-24 19:57:52,779 "GET /staff/create/ HTTP/1.1" 200 12644
+INFO 2024-04-24 19:57:58,103 "GET /student/list HTTP/1.1" 200 9992
+INFO 2024-04-24 19:57:59,690 "GET /staff/list/ HTTP/1.1" 200 9733
+INFO 2024-04-24 19:58:02,644 "GET /result/view/all HTTP/1.1" 200 10336
+INFO 2024-04-24 19:58:06,590 "GET /result/edit-results/ HTTP/1.1" 200 12116
+INFO 2024-04-24 19:58:12,680 "POST /result/edit-results/ HTTP/1.1" 302 0
+INFO 2024-04-24 19:58:13,029 "GET /result/edit-results/ HTTP/1.1" 200 12259
+INFO 2024-04-24 19:58:19,504 "GET /result/view/all HTTP/1.1" 200 10336
+INFO 2024-04-24 19:58:24,029 "GET /session/list/ HTTP/1.1" 200 11987
+INFO 2024-04-24 19:58:33,353 "GET /term/list/ HTTP/1.1" 200 12277
+INFO 2024-04-24 19:58:36,490 "GET /subject/list/ HTTP/1.1" 200 11728
+INFO 2024-04-24 19:58:44,064 "GET /subject/2/update/ HTTP/1.1" 200 9872
+INFO 2024-04-24 19:58:54,007 "POST /subject/2/update/ HTTP/1.1" 302 0
+INFO 2024-04-24 19:58:54,090 "GET /subject/list/ HTTP/1.1" 200 11885
+INFO 2024-04-24 19:59:01,865 "GET /result/edit-results/ HTTP/1.1" 200 12129
+INFO 2024-04-24 19:59:04,459 "GET /result/view/all HTTP/1.1" 200 10349
+INFO 2024-04-24 19:59:07,273 "GET /class/list/ HTTP/1.1" 200 12017
+INFO 2024-04-24 20:02:05,685 Watching for file changes with StatReloader
+INFO 2024-04-24 20:02:08,236 "GET / HTTP/1.1" 302 0
+INFO 2024-04-24 20:02:08,443 "GET /accounts/login/?next=/ HTTP/1.1" 200 4066
+WARNING 2024-04-24 20:02:09,280 Not Found: /favicon.ico
+WARNING 2024-04-24 20:02:09,280 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-04-24 20:02:12,949 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-04-24 20:02:12,971 "GET / HTTP/1.1" 200 9336
+INFO 2024-04-24 20:02:13,217 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2024-04-24 20:02:17,795 "GET / HTTP/1.1" 200 9336
+INFO 2024-04-24 20:02:23,300 "GET /result/view/all HTTP/1.1" 200 10349
+INFO 2024-04-24 20:02:25,552 "GET /result/edit-results/ HTTP/1.1" 200 12129
+INFO 2024-04-24 20:02:27,364 "GET /result/create/ HTTP/1.1" 200 10786
+INFO 2024-04-24 20:02:33,537 "GET /result/view/all HTTP/1.1" 200 10349
+INFO 2024-04-24 20:02:34,675 "GET /result/edit-results/ HTTP/1.1" 200 12129
+INFO 2024-04-24 20:02:40,214 "GET /result/create/ HTTP/1.1" 200 10786
+INFO 2024-04-24 20:02:45,346 "POST /result/create/ HTTP/1.1" 200 11157
+INFO 2024-04-24 20:02:49,717 "POST /result/create/ HTTP/1.1" 302 0
+INFO 2024-04-24 20:02:49,924 "GET /result/edit-results/ HTTP/1.1" 200 12129
+INFO 2024-04-24 20:02:56,745 "GET /result/edit-results/ HTTP/1.1" 200 12129
+INFO 2024-04-24 20:02:58,764 "GET /result/view/all HTTP/1.1" 200 10349
+INFO 2024-04-24 20:03:02,322 "GET /result/create/ HTTP/1.1" 200 10786
+INFO 2024-04-24 20:03:06,036 "POST /result/create/ HTTP/1.1" 200 11157
+INFO 2024-04-24 20:03:18,685 "POST /result/create/ HTTP/1.1" 302 0
+INFO 2024-04-24 20:03:18,898 "GET /result/edit-results/ HTTP/1.1" 200 12129
+INFO 2024-04-24 20:03:27,520 "POST /result/edit-results/ HTTP/1.1" 302 0
+INFO 2024-04-24 20:03:27,571 "GET /result/edit-results/ HTTP/1.1" 200 12272
+INFO 2024-04-24 20:03:31,641 "GET /result/view/all HTTP/1.1" 200 10349
+INFO 2024-04-24 20:03:34,565 "GET /result/create/ HTTP/1.1" 200 10786
+INFO 2024-04-24 20:03:43,899 "GET /result/view/all HTTP/1.1" 200 10349
+INFO 2024-04-24 20:03:45,109 "GET /result/edit-results/ HTTP/1.1" 200 12129
+INFO 2024-04-24 20:03:49,419 "GET /result/create/ HTTP/1.1" 200 10786
+INFO 2024-04-24 20:13:00,631 Watching for file changes with StatReloader
+INFO 2024-04-24 20:13:03,641 "GET / HTTP/1.1" 200 9336
+INFO 2024-04-24 20:17:54,797 "GET /finance/list/ HTTP/1.1" 200 10387
+INFO 2024-04-24 20:17:59,109 "GET /result/create/ HTTP/1.1" 200 10785
+INFO 2024-04-24 20:18:00,434 "GET /result/view/all HTTP/1.1" 200 8880
+INFO 2024-04-24 20:18:01,345 "GET /result/edit-results/ HTTP/1.1" 200 10150
+INFO 2024-04-24 20:18:02,139 "GET /result/edit-results/ HTTP/1.1" 200 10150
+INFO 2024-04-24 20:18:04,308 "GET /result/edit-results/ HTTP/1.1" 200 10150
+INFO 2024-04-24 20:18:07,997 "GET /result/view/all HTTP/1.1" 200 8880
+INFO 2024-04-24 20:18:11,741 "GET /result/create/ HTTP/1.1" 200 10785
+INFO 2024-04-24 20:18:19,563 "GET / HTTP/1.1" 302 0
+INFO 2024-04-24 20:18:19,744 "GET /accounts/login/?next=/ HTTP/1.1" 200 4066
+INFO 2024-04-24 20:18:23,297 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-04-24 20:18:23,468 "GET / HTTP/1.1" 200 9336
+INFO 2024-04-24 20:18:23,588 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2024-04-24 20:18:28,391 "GET /result/create/ HTTP/1.1" 200 10785
+INFO 2024-04-24 20:18:30,346 "GET /result/edit-results/ HTTP/1.1" 200 10150
+INFO 2024-04-24 20:18:32,792 "POST /result/edit-results/ HTTP/1.1" 302 0
+INFO 2024-04-24 20:18:33,022 "GET /result/edit-results/ HTTP/1.1" 200 10293
+INFO 2024-04-24 20:18:34,070 "GET /result/view/all HTTP/1.1" 200 8880
+INFO 2024-04-24 20:18:38,644 "GET /current-session/ HTTP/1.1" 200 10823
+INFO 2024-04-24 20:18:46,078 "GET /current-session/ HTTP/1.1" 200 10823
+ERROR 2024-04-24 20:18:50,066 Internal Server Error: /current-session/
+Traceback (most recent call last):
+  File "/home/kali/.local/lib/python3.10/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/kali/.local/lib/python3.10/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/kali/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/kali/.local/lib/python3.10/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/home/kali/.local/lib/python3.10/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/kali/Desktop/Django-School-Management-System/apps/corecode/views.py", line 257, in post
+    form = self.form_Class(request.POST)
+AttributeError: 'CurrentSessionAndTermView' object has no attribute 'form_Class'
+ERROR 2024-04-24 20:18:50,072 "POST /current-session/ HTTP/1.1" 500 81712
+INFO 2024-04-24 20:18:52,165 "GET /current-session/ HTTP/1.1" 200 10823
+INFO 2024-04-24 20:18:54,139 "GET /result/create/ HTTP/1.1" 200 10785
+INFO 2024-04-24 20:18:58,187 "POST /result/create/ HTTP/1.1" 200 11708
+INFO 2024-04-24 20:19:07,052 "POST /result/create/ HTTP/1.1" 302 0
+INFO 2024-04-24 20:19:07,126 "GET /result/edit-results/ HTTP/1.1" 200 13425
+INFO 2024-04-24 20:19:38,503 "POST /result/edit-results/ HTTP/1.1" 302 0
+INFO 2024-04-24 20:19:38,931 "GET /result/edit-results/ HTTP/1.1" 200 13588
+INFO 2024-04-24 20:19:42,561 "GET /result/view/all HTTP/1.1" 200 10828
+INFO 2024-04-24 20:19:45,463 "GET /result/edit-results/ HTTP/1.1" 200 13445
+INFO 2024-04-24 20:19:46,909 "GET /result/create/ HTTP/1.1" 200 10785
+INFO 2024-04-24 20:19:50,559 "POST /result/create/ HTTP/1.1" 200 11708
+INFO 2024-04-24 20:19:56,248 "POST /result/create/ HTTP/1.1" 302 0
+INFO 2024-04-24 20:19:56,538 "GET /result/edit-results/ HTTP/1.1" 200 16731
+INFO 2024-04-24 20:20:26,476 "POST /result/edit-results/ HTTP/1.1" 302 0
+INFO 2024-04-24 20:20:26,714 "GET /result/edit-results/ HTTP/1.1" 200 16893
+INFO 2024-04-24 20:20:29,126 "GET /result/view/all HTTP/1.1" 200 12776
+INFO 2024-04-24 20:20:35,033 "GET /result/edit-results/ HTTP/1.1" 200 16750
+INFO 2024-04-24 20:20:42,041 "POST /result/edit-results/ HTTP/1.1" 302 0
+INFO 2024-04-24 20:20:42,550 "GET /result/edit-results/ HTTP/1.1" 200 16894
+INFO 2024-04-24 20:20:45,486 "GET /result/view/all HTTP/1.1" 200 12777
+INFO 2024-04-24 20:20:50,769 "GET /result/view/all HTTP/1.1" 200 12777
+INFO 2024-04-24 20:20:52,243 "GET /result/edit-results/ HTTP/1.1" 200 16751
+INFO 2024-04-24 20:20:56,296 "GET /subject/list/ HTTP/1.1" 200 12337
+INFO 2024-04-24 20:21:00,455 "GET /class/list/ HTTP/1.1" 200 12018
+INFO 2024-04-24 20:21:03,450 "GET /session/list/ HTTP/1.1" 200 12321
+INFO 2024-04-24 20:21:07,628 "GET /finance/list/ HTTP/1.1" 200 10387
+INFO 2024-04-24 20:21:13,779 "GET /site-config HTTP/1.1" 200 10931
+INFO 2024-04-24 20:21:20,768 "GET /finance/list/ HTTP/1.1" 200 10387
+INFO 2024-04-24 20:30:34,834 "GET / HTTP/1.1" 200 9336
+INFO 2024-04-24 20:31:56,952 "GET /site-config HTTP/1.1" 200 10931
+INFO 2024-04-24 20:31:59,417 "GET /result/view/all HTTP/1.1" 200 12777
+INFO 2024-04-24 20:32:06,188 "GET /result/edit-results/ HTTP/1.1" 200 16751
+INFO 2024-04-24 20:32:08,235 "GET /student/list HTTP/1.1" 200 9992
+INFO 2024-04-24 20:32:11,821 "GET /staff/list/ HTTP/1.1" 200 9733
+INFO 2024-04-24 20:32:13,840 "GET /finance/list/ HTTP/1.1" 200 10387
+INFO 2024-04-24 20:32:17,396 "GET /finance/1/detail/ HTTP/1.1" 200 11444
+INFO 2024-04-24 20:32:26,842 "GET /finance/create/ HTTP/1.1" 200 13858
+INFO 2024-04-24 20:32:43,579 "GET /result/create/ HTTP/1.1" 200 10785
+INFO 2024-04-24 20:32:46,445 "GET /result/edit-results/ HTTP/1.1" 200 16751
+INFO 2024-04-24 20:33:19,708 "GET /result/view/all HTTP/1.1" 200 12777
+INFO 2024-04-24 20:33:22,441 "GET /staff/list/ HTTP/1.1" 200 9733
+INFO 2024-04-24 20:33:31,086 "GET /student/list HTTP/1.1" 200 9992
+INFO 2024-04-24 20:33:32,278 "GET /finance/list/ HTTP/1.1" 200 10387
+INFO 2024-04-24 20:34:30,502 "GET /result/view/all HTTP/1.1" 200 12777
+INFO 2024-04-24 20:35:56,089 "GET /result/edit-results/ HTTP/1.1" 200 16751
+INFO 2024-04-24 20:35:58,715 "GET /result/create/ HTTP/1.1" 200 10785
+INFO 2024-04-24 20:36:01,512 "GET /student/list HTTP/1.1" 200 9992
+INFO 2024-04-24 20:36:03,002 "GET /staff/list/ HTTP/1.1" 200 9733
+INFO 2024-04-24 20:36:04,040 "GET /finance/list/ HTTP/1.1" 200 10387
+INFO 2024-04-24 20:36:28,964 Watching for file changes with StatReloader
+INFO 2024-04-24 20:36:36,179 "GET / HTTP/1.1" 302 0
+INFO 2024-04-24 20:36:36,518 "GET /accounts/login/?next=/ HTTP/1.1" 200 4066
+WARNING 2024-04-24 20:36:37,752 Not Found: /favicon.ico
+INFO 2024-04-24 20:36:45,049 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-04-24 20:36:45,074 "GET / HTTP/1.1" 200 9529
+INFO 2024-04-24 20:39:17,119 Watching for file changes with StatReloader
+INFO 2024-04-24 20:39:20,093 "GET / HTTP/1.1" 302 0
+INFO 2024-04-24 20:39:20,416 "GET /accounts/login/?next=/ HTTP/1.1" 200 4066
+INFO 2024-04-24 20:39:20,672 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+WARNING 2024-04-24 20:39:21,141 Not Found: /favicon.ico
+WARNING 2024-04-24 20:39:21,141 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2024-04-24 20:39:21,142 - Broken pipe from ('127.0.0.1', 33298)
+
+INFO 2024-04-24 20:39:23,104 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-04-24 20:39:23,134 "GET / HTTP/1.1" 200 10006
+INFO 2024-04-24 20:50:39,294 Watching for file changes with StatReloader
+INFO 2024-04-24 20:50:42,469 "GET / HTTP/1.1" 302 0
+INFO 2024-04-24 20:50:42,704 "GET /accounts/login/?next=/ HTTP/1.1" 200 4066
+INFO 2024-04-24 20:50:49,915 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-04-24 20:50:49,936 "GET / HTTP/1.1" 200 9526
+INFO 2024-04-24 20:52:04,553 "GET /result/create/ HTTP/1.1" 200 10975
+INFO 2024-04-24 20:52:07,381 "GET /result/edit-results/ HTTP/1.1" 200 16941
+INFO 2024-04-24 20:52:10,108 "GET /result/view/all HTTP/1.1" 200 12967
+INFO 2024-04-24 20:52:15,352 "GET /session/list/ HTTP/1.1" 200 12511
+INFO 2024-04-24 20:52:19,041 "GET /term/list/ HTTP/1.1" 200 14140
+INFO 2024-04-24 20:52:22,711 "GET /subject/list/ HTTP/1.1" 200 12527
+INFO 2024-04-24 20:52:26,864 "GET /class/list/ HTTP/1.1" 200 12208
+INFO 2024-04-24 20:52:32,589 "GET /staff/list/ HTTP/1.1" 200 9923
+INFO 2024-04-24 20:52:37,011 "GET /student/list HTTP/1.1" 200 10182
+INFO 2024-04-24 20:58:09,014 Watching for file changes with StatReloader
+INFO 2024-04-24 20:58:11,574 "GET / HTTP/1.1" 302 0
+INFO 2024-04-24 20:58:11,928 "GET /accounts/login/?next=/ HTTP/1.1" 200 4066
+WARNING 2024-04-24 20:58:13,353 Not Found: /favicon.ico
+INFO 2024-04-24 20:58:21,227 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-04-24 20:58:21,329 "GET / HTTP/1.1" 200 9525
+INFO 2024-04-24 20:58:22,453 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2024-04-24 21:00:46,973 "GET / HTTP/1.1" 200 9525
+INFO 2024-04-24 21:01:37,789 "GET / HTTP/1.1" 302 0
+INFO 2024-04-24 21:01:38,061 "GET /accounts/login/?next=/ HTTP/1.1" 200 4066
+INFO 2024-04-24 21:01:41,390 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-04-24 21:01:41,756 "GET / HTTP/1.1" 200 9525
+INFO 2024-04-24 21:01:42,613 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2024-04-24 21:06:47,644 Watching for file changes with StatReloader
+INFO 2024-04-24 21:07:02,512 "GET / HTTP/1.1" 302 0
+INFO 2024-04-24 21:07:02,976 "GET /accounts/login/?next=/ HTTP/1.1" 200 4066
+INFO 2024-04-24 21:07:06,842 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2024-04-24 21:07:06,985 "GET / HTTP/1.1" 200 9525
